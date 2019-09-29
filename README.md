@@ -1,4 +1,4 @@
-# Datavisualition
+# Datavisualization
 ## GGANIMATE in data from the Brazilian Chamber of Deputies
 
 ## The main objective is to demonstrate the expenses of Brazilian parliamentarians with a dynamic visualization, in order to arouse interest to readers.
